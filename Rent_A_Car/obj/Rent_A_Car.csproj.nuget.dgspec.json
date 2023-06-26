@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jean Ricka\\Desktop\\Github\\Rent_A_Car\\Rent_A_Car_Application\\Rent_A_Car\\Rent_A_Car.csproj": {}
+    "C:\\Users\\65964\\Desktop\\Github\\rent_a_car\\Rent_A_Car_Application\\Rent_A_Car\\Rent_A_Car.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jean Ricka\\Desktop\\Github\\Rent_A_Car\\Rent_A_Car_Application\\Rent_A_Car\\Rent_A_Car.csproj": {
+    "C:\\Users\\65964\\Desktop\\Github\\rent_a_car\\Rent_A_Car_Application\\Rent_A_Car\\Rent_A_Car.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jean Ricka\\Desktop\\Github\\Rent_A_Car\\Rent_A_Car_Application\\Rent_A_Car\\Rent_A_Car.csproj",
+        "projectUniqueName": "C:\\Users\\65964\\Desktop\\Github\\rent_a_car\\Rent_A_Car_Application\\Rent_A_Car\\Rent_A_Car.csproj",
         "projectName": "Rent_A_Car",
-        "projectPath": "C:\\Users\\Jean Ricka\\Desktop\\Github\\Rent_A_Car\\Rent_A_Car_Application\\Rent_A_Car\\Rent_A_Car.csproj",
-        "packagesPath": "C:\\Users\\Jean Ricka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jean Ricka\\Desktop\\Github\\Rent_A_Car\\Rent_A_Car_Application\\Rent_A_Car\\obj\\",
+        "projectPath": "C:\\Users\\65964\\Desktop\\Github\\rent_a_car\\Rent_A_Car_Application\\Rent_A_Car\\Rent_A_Car.csproj",
+        "packagesPath": "C:\\Users\\65964\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\65964\\Desktop\\Github\\rent_a_car\\Rent_A_Car_Application\\Rent_A_Car\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jean Ricka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\65964\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
